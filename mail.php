@@ -1,5 +1,5 @@
 <?php
-//get data from form  
+//post data from form  
 
 $name = $_POST['name'];
 $email= $_POST['email'];
